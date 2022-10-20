@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Example content
-categories: Writing
+categories: screenplay
 ---
 
 

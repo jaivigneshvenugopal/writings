@@ -15,3 +15,15 @@ author:
   name:           'Vignesh'
 
 paginate:         10
+
+collections:
+  category:
+    output: true
+
+defaults:
+-
+  scope:
+    path: ""
+    type: category
+  values:
+    layout: "category"
