@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Example content
-categories: screenplay
+categories: 
+    - "screenplay"
 ---
 
 

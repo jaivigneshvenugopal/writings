@@ -18,7 +18,7 @@
       {% endcomment %}
 
       {% for tag in site.categories %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">{{ tag[0] }}</a>
+          <a href="/category/{{ tag[0] }}" class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">{{ tag[0] }}</a>
       {% endfor %}
       
       <!-- {% assign pages_list = site.pages %}

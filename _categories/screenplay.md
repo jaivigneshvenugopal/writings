@@ -1,4 +1,0 @@
----
-tag: screenplay
-permalink: "/screenplay"
----
