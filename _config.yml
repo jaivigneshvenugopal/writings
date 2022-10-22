@@ -14,7 +14,7 @@ baseurl:          /
 author:
   name:           'Vignesh'
 
-paginate:         10
+paginate:         3
 
 collections:
   category:
