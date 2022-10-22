@@ -1,4 +1,4 @@
 ---
 tag: screenplay
-permalink: "/category/screenplay"
+permalink: "/screenplay"
 ---

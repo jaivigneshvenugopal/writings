@@ -1,4 +1,4 @@
 ---
 tag: computing
-permalink: "/category/computing"
+permalink: "/computing"
 ---
