@@ -2,15 +2,13 @@
 layout: default
 ---
 
-<div>
-    <h1>/{{page.tag}}</h1>
-    <br>
-    {% for post in site.categories[page.tag] %}
-        <h3 class="post-title">
-        <a href="{{ post.url }}">
-            {{ post.title }}
-        </a>
-        </h3>
-        <span class="post-date">{{ post.date | date_to_string }}, {{ post.content | number_of_words }} Words</span>
-    {% endfor %}
-</div>
+<h1 class="post-date">/{{page.tag}}</h1>
+<br>
+{% for post in site.categories[page.tag] %}
+    <h3 class="post-title">
+    <a href="{{ post.url }}">
+        {{ post.title }}
+    </a>
+    </h3>
+    <span class="post-date">{{ post.date | date_to_string }}, {{ post.content | number_of_words }} Words</span>
+{% endfor %}
