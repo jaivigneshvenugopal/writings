@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Example content
-categories: 
-    - "screenplay"
-    - "test"
+categories:
+    - "computing"
 ---
 
 
