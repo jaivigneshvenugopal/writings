@@ -14,8 +14,6 @@ baseurl:          /
 author:
   name:           'Vignesh'
 
-paginate:         5
-
 collections:
   category:
     output: true

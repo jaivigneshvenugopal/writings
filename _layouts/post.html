@@ -5,7 +5,7 @@
     <div class="post-content container">
       <div class="post">
         <h1 class="post-title">{{ page.title }}</h1>
-        <span class="post-date">{{ page.date | date_to_string }}, {{ page.content | number_of_words }} Words</span>
+        <span class="post-date">{% if page.date %}{{ page.date | date_to_string }},{% endif %} {{ page.content | number_of_words }} Words</span>
         <span class="post-tag">
           {% for tag in page.categories %}
           <i class="fa fa-tag">
