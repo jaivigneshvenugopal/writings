@@ -1,9 +1,13 @@
----
-layout: default
----
-
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}, {{ page.content | number_of_words }} Words</span>
-  {{ content }}
-</div>
+<!DOCTYPE html>
+<html lang="en-us">
+  {% include head.html %}
+  <body>
+    <div class="post-content container">
+      <div class="post">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <span class="post-date">{{ page.date | date_to_string }}, {{ page.content | number_of_words }} Words</span>
+        {{ content }}
+      </div>
+    </div>
+  </body>
+</html>
