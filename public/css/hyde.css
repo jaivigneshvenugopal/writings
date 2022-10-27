@@ -69,6 +69,32 @@ html {
   }
 }
 
+.right {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+}
+@media (min-width: 48em) {
+  .right {
+    position: fixed;
+    top: 0;
+    left: auto;
+    right: 0;
+    bottom: 0;
+    width: 10;
+    text-align: left;
+  }
+}
+
+.right a {
+  color: #fff;
+}
+
+.right p2 {
+  color: #fff;
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -147,8 +173,8 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

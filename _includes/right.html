@@ -1,0 +1,10 @@
+<div class="right">
+  <div class="container">
+    <nav class="sidebar-nav">
+      <p2>Categories</p2>
+      {% for category in site.categories %}
+          <a href="/{{ category[0] }}" class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">{{ category[0] }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</div>

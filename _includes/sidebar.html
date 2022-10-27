@@ -8,18 +8,5 @@
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
-    <nav class="sidebar-nav">
-      <p2>Categories</p2>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% for category in site.categories %}
-          <a href="/{{ category[0] }}" class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">{{ category[0] }}</a>
-      {% endfor %}
-    </nav>
   </div>
 </div>
