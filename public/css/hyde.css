@@ -73,7 +73,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #cacaca;
 }
 @media (min-width: 48em) {
   .right {
@@ -82,17 +82,18 @@ html {
     left: auto;
     right: 0;
     bottom: 0;
-    width: 10;
-    text-align: left;
+    width: 10rem;
+    text-align: right;
   }
 }
 
 .right a {
-  color: #fff;
+  color: #000000;
 }
 
-.right p2 {
-  color: #fff;
+.right h2 {
+  color: #000000;
+  margin-top: 0;
 }
 
 /* Sidebar links */

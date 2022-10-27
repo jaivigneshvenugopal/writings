@@ -1,7 +1,7 @@
 <div class="right">
-  <div class="container">
+  <div class="container sidebar-sticky">
     <nav class="sidebar-nav">
-      <p2>Categories</p2>
+      <h2>Categories</h2>
       {% for category in site.categories %}
           <a href="/{{ category[0] }}" class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">{{ category[0] }}</a>
       {% endfor %}
