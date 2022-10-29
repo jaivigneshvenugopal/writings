@@ -3,7 +3,7 @@
     <nav class="sidebar-nav">
       <h2>Categories</h2>
       {% for category in site.categories %}
-          <a href="/{{ category[0] }}" class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">{{ category[0] }}</a>
+          <a href="/{{ category[0] }}" class="lead">{{ category[0] }}</a>
       {% endfor %}
     </nav>
   </div>
