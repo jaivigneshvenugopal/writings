@@ -1,4 +1,0 @@
----
-tag: computing
-permalink: "/computing"
----

@@ -2,7 +2,7 @@
 layout: post
 title: Writing
 categories:
-    - "meditations"
+    - meditations
 ---
 
 This is a test to see how I write. This might go well or it might not. But it
