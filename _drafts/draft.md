@@ -5,13 +5,22 @@ categories:
     - meditations
 ---
 
-This is a test to see how I write. This might go well or it might not. But it
-is up to the person reading to see and decide if I'm writing this or not
-heehe
+- a little note to self - about purpose of this post. Why is this
+  impt.
+- introduction
+    - Writing over the years - using blogger and wordpress
+    - how that served a different purpose and little problems with that
+    - sharing thoughts to the rest of the world and read opinons
+    - control how someone consumes content from your website
+- why I write
+    - state save
+    - figuring out bits that changed / rethink about issues
+    - art of creatoin - how writing is an art and a craft im trying to get
+    - better at 
+    - sanity check
+    - to live forever in some form 
+
+- content
+    - everything and anything - except personal life and feelings
 
 
-Dude omg this looks good so far and I seem to be enjoyhing it as much as you 
-would want to.
-
-
-Does the formatting look good? Oh i think its good. hehe. 
