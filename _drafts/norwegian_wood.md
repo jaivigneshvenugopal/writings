@@ -1,34 +1,64 @@
-2nd November 2022
+---
+layout: post
+title: Norwegian Wood
+categories:
+    - "books"
+---
 
-I knew I was in the final few pages of the book and so I did put in a lot of
-effort to finish it. I read on the train on the way to work, read in the
-toilet, read at lunchtime, read all the way back home, sat at the LRT platform
-to finish the book before returning back home. And I did complete it. 
+*This contains spoilers - don't read further if you have not read
+the book. Also, this post is more of a rumination than a review.*
 
-It is kind of weird to say that I did forget about a few scenes at the starting
-of the book. I am not sure if it is because scenes were actually forgettable or
-it was because I just took a really long time to complete this book. I feel it
-might have been a few months. I don't recall when I started with the book. 
+### placeholder for pic
+
+### Introduction
+
+I have been interested in Murakami for awhile now, and this was just my second
+read. I have watched several videos where translators got together and talked
+about the genius within him. I guess I was intrigued to pick this after
+watching that video. I had read *What I Talk About When I Talk About Running* a
+year back and I liked his style of writing - simple and elegant. Also Norwegian
+Wood was one of his famous works that gave him his greatest audience after his
+previous works. So I felt that I had to check it out, given that it was also a
+weird romance novel.
+
+### 2/11/22 - The day of completion.
+
+This was more of a tradegy than a love story. Well, all love stories are
+somewhat of a tradegy. I knew I was in the final few pages of the book and so I
+did put in a lot of effort to finish it today. I read on the train, on the way
+to work, read in the toilet, read at lunchtime, read all the way back home, sat
+at the LRT platform to finish reading the book before returning back home. And
+I did complete it. 
+
+
+It is kind of weird or rather shameful to say that I did forget about a few
+scenes from the beginning of the book. I am not sure if it is because scenes
+were actually forgettable or it was because I just took a really long time to
+complete this book. I feel it might have been a few months. I don't recall when
+I started with the book. 
+
 
 I can't really come to conclusions about the book. And I don't really
-understand why I am having difficulty coming up with some sort of review for
-this. May it is because I have to give some time before words can sort of flow. 
-But this book was intense for sure. Back-to-back suicides is not something that
-is very digestable. However, I felt the sadness the main character felt is
+understand why I am having difficulty coming up with some sort of structured
+response for this. Maybe it is because I have to give some time before I can
+form an opinoin. But this book was intense for sure. Back-to-back suicides are
+not something that is very digestable. However, I felt the sadness Toru felt is
 something any of us can understand and take in. There were a lot of beautiful
-moments in the book, where the author was trying to let us hang in suspension.
-In some sort of frozen state. And I loved that. I loved the sadness, I loved
-the sexuality of the characters, I loved that mundane of everyday activities
-the main character had to endure. I loved the slowness of the world. I just
-loved to have been frozen in time between the pages, with the characters. Ah, 
-this was a beautiful book indeed.
+moments in the book, where the author was trying to let us
+hang in suspension.  In some sort of frozen state. And I loved that. I loved
+the sadness, I loved the sexuality of the characters, I loved that mundane of
+everyday activities the main character had to endure. I loved the slowness of
+the world. I just loved to have been frozen in time between the pages, with the
+characters. Ah, this was a beautiful book indeed.
+
 
 I don't think many would love it, mainly because there is no story per se. It
 was more off a zoom-in and zoom-out sort of story where we suddenly jump into
 someone's life for a prolonged period of time and then jump out. We just follow
-along till the author has decided we should get out, and that's what happens. 
+along till the author has decided we should get out, and that's what happens.
 It gave a lot of Manchester By the Sea vibes - a movie of similar taste and
 vibe. 
+
 
 I think I loved that weirdness of it. The things a particular character did,
 wow, it was just so horrifyingly weird I loved it so much. It was such a
@@ -37,4 +67,62 @@ But it sort of goes to show the depth in characters Murakami envisioned. People
 in real life are definitely much weirder, so this I did whole-heartedly accept
 and enjoy.
 
+---
 
+### 5/11/22 - A few days later.
+
+
+It has been a few days, and I have let the feeling percolate a little. I think
+the story was mostly a little window to understand depression a little better.
+I think there were multiple people who had it and just took their lives away -
+but they spoke and behaved like normal people. On hindsight, I should have slowed
+down during the conversations to understand the depth of the characters better.
+I guess that's why the deaths were surprising. However, I feel it was also the
+overcoming of it. I am pretty sure Toru was depressed as well, but there was a
+fight in him. A fight to not take the easy way out, a fight to continue staying
+in this world. At the end of the book, he was in the worst shape. He let his
+body and mind wander, but he stayed on. I think that was inspiring. People who
+fight on to stay alive is always inspiring. 
+
+
+I think I liked Naoko the most. I believe it was because she was the most
+broken. Broken beyond repair. There was beauty in her fight I believe. She had
+difficulty writing letters to Toru and I believe that was the worsening of her
+condition. I wonder if fighting inner demons would impair someone to write.
+
+
+Oh, and I think it is easy to forget that this story was set in the 1960s and
+1970s. So people HAD to write to each other, since making calls over the phone
+was not that common. I think there was this month where Toru would just keep
+writing and writing to many people. That sounded beautiful to me. Putting in
+effort to write physical letters and then posting them out. Something so
+soothing and satisfying of a slow-paced world. 
+
+
+Something about Midori was a little off though. It is difficult for me to put
+into words but it seemed that the character was forced. Forced into
+imagination. Either I have not come across someone whose attributes are alike
+hers or Murakami just forced this character out of him. But the character was
+indeed a breath of fresh air for Toru. Someone like that would light up
+anyone's day. She certainly did mine - I would love it if someone just comes
+over while I'm having a coffee to talk to me or pull me to go for a walk
+somewhere.
+
+
+I think Murakami's descriptions of places were really easy to take in. Some authors have
+this habit of painting descriptions for the sake of painting it. But Murakami
+held back on this front - which I loved. He only sprinkled what was necessary
+and those bits stayed with me till the very end.
+
+
+The ending was a little weird. A whole lot weirder than I anticipated. But I
+understood the reasoning and it felt natural for the events to take place that
+way. There was a little surrealism I believe - but I don't think I caught it
+that well. After the ending, the prologue seemed to have a much greater weight.
+The book begins with him reminscing about the past, some 20 years later. And
+that's when it hit me - the dead remain dead while the living contain them
+within themselves and give them life.
+
+
+I read this for three or four months but I really enjoyed the slow read.
+The slowness of pain, death, love and the overcoming of it all. 
