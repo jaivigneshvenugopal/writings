@@ -9,10 +9,10 @@ categories:
 *This contains spoilers - don't read further if you have not read
 the book. Also, this post is more of a rumination than a review.*
 
-## Introduction
+### Introduction
 
 I have been interested in Murakami for awhile now, and this was my second read.
-A year ago, I came across several videos in which language translators got
+A year ago, I came across several videos in which japanese translators got
 together and talked about the genius that he is. I guess I was intrigued to
 pick this after watching that video. I did read *What I Talk About When I Talk
 About Running* some time back, and I liked his style of writing — which was
@@ -20,9 +20,8 @@ surprisingly simple and elegant.  Also it seemed that *Norwegian Wood* was one
 of his famous works that gave him his greatest audience. I felt that I had to
 read it.
 
-<br/>
 
-## 2/11/22: Day of completion.
+### 2/11/22: Day of completion.
 
 This story was more of a tradegy than a love story. Well, all love stories are
 somewhat of a tradegy, but this was more so of it. 
@@ -33,7 +32,7 @@ washroom, read at lunchtime, read all the way back home, and finally, sat at the
 LRT platform to finish it before returning back home. 
 
 It is weird or rather shameful to say that I did forget about a few scenes from
-the beginning of the book. I am not sure if it is because scenes were actually
+the initial pages of the book. I am not sure if it is because scenes were actually
 forgettable or because I just took a really long time to complete this. By
 the end of the book, I could not really remember the prologue. I had to go back
 to read that again. 
@@ -66,9 +65,7 @@ to me was a reflection of that - or at least a muddy one at that.
 
 I need to ponder about this a little more.
 
-<br/>
-
-## 5/11/22: Three days later.
+### 5/11/22: Three days later.
 
 Okay, it has been a few days, and I have let my thoughts percolate a little. I
 think the story was mostly a little window to understand depression a little
@@ -122,4 +119,6 @@ But that's when it hit me - the dead remain dead while the living contain them
 within themselves and give them life. Toru had to bear that. So do we.
 
 I read this for three or four months but I really enjoyed the slow read.  The
-slowness of pain, death, love and the overcoming of it all. Everything passes.
+slowness of pain, death, love and the overcoming of it all. 
+
+Everything passes.
