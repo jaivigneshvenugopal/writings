@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Norwegian Wood
-date: 05-11-2022
+date: 11-11-2022
 categories:
     - "books"
 ---
@@ -13,7 +13,7 @@ the book. Also, this post is more of a rumination than a review.*
 
 I have been interested in Murakami for awhile now, and this was my second read.
 A year ago, I came across several videos in which japanese translators got
-together and talked about the genius that he is. I guess I was intrigued to
+together and talked about the genius that he was. I guess I was intrigued to
 pick this after watching that video. I did read *What I Talk About When I Talk
 About Running* some time back, and I liked his style of writing — which was
 surprisingly simple and elegant.  Also it seemed that *Norwegian Wood* was one
@@ -46,7 +46,7 @@ anyone can understand and emphathise with. There were a lot of beautiful
 moments in the book where Murakami was trying to suspend me in some sort of a
 frozen state. And I loved that. I loved the sadness, I loved the sexuality of
 the characters, I loved the mundaneness of everyday life that Toru had to
-endure. I loved the slowness of the world and I loved to have existed in time
+endure. I loved the slowness of the world and I loved to have existed in time,
 between the pages, with the characters keeping me alive. Ah, this was a
 beautiful book indeed.
 
@@ -69,18 +69,18 @@ I need to ponder about this a little more.
 
 Okay, it has been a few days, and I have let my thoughts percolate a little. I
 think the story was mostly a little window to understand depression a little
-better. I think there were many who had it and just took their lives away - but
+better. Think there were many who had it and just took their lives away - but
 they spoke and behaved like normal people. On hindsight, I should have slowed
 down during the conversations to understand the depth of the depressed
-characters better. I guess that's why the deaths were surprising to me. I am
+characters better. I guess that's why the deaths were so surprising to me. I am
 pretty sure Toru was depressed as well, but there was a fight in him. A fight
 to not take the easy way out, a fight to continue staying in this world.
-Nearing the end of the book, he plunged and was in his worst shape. He let his
+Nearing the end of the book, he broke and was in his worst shape. He let his
 body and mind wander, but somehow stayed on. I think that was inspiring.
 People who fight on to stay alive are always inspiring. 
 
 I think I liked Naoko the most. I believe it was because she was the most
-broken. Broken beyond repair. There was beauty in her fight. She had difficulty
+broken - beyond repair. There was beauty in her fight. She had difficulty
 writing letters to Toru and I sensed it was the worsening of her condition -
 the beginning of her downfall. I wonder if fighting inner demons would impair
 someone to write or even speak much. Physically, I think she looked beautiful
@@ -90,8 +90,8 @@ Oh, and I think it is easy to forget that this story was set in the 1960s and
 1970s. So people HAD to write to each other, since making calls over the phone
 was not that common. I think there was this month - April/May - where Toru
 would just keep writing and writing to many people. That sounded beautiful to
-me.  Putting in effort to write physical letters and then posting them out.
-Something so soothing and satisfying of a slow-paced world. 
+me. The whole act of putting in effort to write physical letters and then
+posting them out.  Something so soothing and satisfying of a slow-paced world. 
 
 Something about Midori was a little off though. It is difficult for me to put
 into words but it seemed that the character was forced. Forced into
@@ -99,7 +99,7 @@ imagination. Either I have not come across someone whose attributes are alike
 hers or Murakami just forced this character out of him. But the character was
 indeed a breath of fresh air for Toru. Someone like that would light up
 anyone's day. She certainly did mine - I would have loved it if someone just
-came over while I'm having a coffee to talk to me or pull me away for a walk
+came over while I'm having a coffee, to talk to me or pull me away for a walk
 somewhere.
 
 I think Murakami's descriptions of places were really easy to take in. Some
@@ -109,14 +109,15 @@ was necessary and those bits stayed with me till the very end.
 
 The ending was a little weird. A whole lot weirder than I anticipated. But I
 understood the reasoning and it felt natural for the events to take place that
-way. There was a little surrealism I believe - but I don't think I caught it
-that well. 
+way. There was a little surrealism I believe - but I don't think I caught that
+too well. 
 
 After reading the ending, the prologue seemed to have a much greater weight.
 The book begins with him reminiscing about the past, some 20 years later.
-Reading the prolouge made me feel so heavy and I initially did not know why.
+Reading the prolouge again made me feel so heavy and I initially did not know why.
 But that's when it hit me - the dead remain dead while the living contain them
-within themselves and give them life. Toru had to bear that. So do we.
+within themselves, and give them life over the years. However many years. Toru
+had to bear that. So do we.
 
 I read this for three or four months but I really enjoyed the slow read.  The
 slowness of pain, death, love and the overcoming of it all. 
