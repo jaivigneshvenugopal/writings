@@ -69,13 +69,13 @@ I need to ponder about this a little more.
 
 Okay, it has been a few days, and I have let my thoughts percolate a little. I
 think the story was mostly a little window to understand depression a little
-better. Think there were many who had it and just took their lives away - but
+better. There were many who had it and just took their lives away - but
 they spoke and behaved like normal people. On hindsight, I should have slowed
 down during the conversations to understand the depth of the depressed
 characters better. I guess that's why the deaths were so surprising to me. I am
 pretty sure Toru was depressed as well, but there was a fight in him. A fight
 to not take the easy way out, a fight to continue staying in this world.
-Nearing the end of the book, he broke and was in his worst shape. He let his
+Nearing the end of the book, he imploded and was in his worst shape. He let his
 body and mind wander, but somehow stayed on. I think that was inspiring.
 People who fight on to stay alive are always inspiring. 
 
@@ -91,7 +91,7 @@ Oh, and I think it is easy to forget that this story was set in the 1960s and
 was not that common. I think there was this month - April/May - where Toru
 would just keep writing and writing to many people. That sounded beautiful to
 me. The whole act of putting in effort to write physical letters and then
-posting them out.  Something so soothing and satisfying of a slow-paced world. 
+posting them out. Something so soothing and satisfying about a slow-paced world. 
 
 Something about Midori was a little off though. It is difficult for me to put
 into words but it seemed that the character was forced. Forced into
@@ -103,7 +103,7 @@ came over while I'm having a coffee, to talk to me or pull me away for a walk
 somewhere.
 
 I think Murakami's descriptions of places were really easy to take in. Some
-authors have this habit of painting descriptions for the sake of painting it.
+authors have this habit of painting descriptions for the sake of painting them.
 But Murakami held back on this front - which I loved. He only sprinkled what
 was necessary and those bits stayed with me till the very end.
 
