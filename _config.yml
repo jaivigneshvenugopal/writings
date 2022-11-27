@@ -9,6 +9,8 @@ permalink:       /posts/:title
 title:            Words
 tagline:          'None'
 description:      'An effort to commit a state, before it becomes another.'
+baseurl: "/writings"
+url: "https://jaivigneshvenugopal.github.io"
 
 author:
   name:           'Vignesh'
