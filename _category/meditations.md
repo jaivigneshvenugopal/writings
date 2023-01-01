@@ -1,0 +1,4 @@
+---
+tag: meditations
+permalink: "/meditations"
+---
