@@ -1,12 +1,12 @@
 <div class="right">
-  <div class="container sidebar-sticky">
+  <div class="container">
     <nav class="sidebar-nav">
-      <h2>Categories</h2>
+      <h3>Categories</h3>
       {% for category in site.categories %}
           <a href="{{ site.baseurl }}/{{ category[0] }}" class="lead">{{ category[0] }}</a>
           <br>
       {% endfor %}
-      <hr color="black">
+      <hr>
       <p>Jaivignesh Venugopal</p>
     </nav>
   </div>
