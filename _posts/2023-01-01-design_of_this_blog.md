@@ -5,6 +5,7 @@ date: 01-01-2023
 categories:
     - "meditations"
 ---
+
 I took a questionable amount of time trying to craft the design of this site. In
 this piece of writing, I try to piece and weave the thoughts that made me do so. 
 
