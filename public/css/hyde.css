@@ -35,12 +35,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 12px;
+    font-size: 10.8px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 16px;
+    font-size: 14.4px;
   }
 }
 
@@ -154,16 +154,16 @@ a.sidebar-nav-item:focus {
  */
 
 .post-content {
-  font-size:      20px;
-  max-width:      50rem;
-  padding-top:    4rem;
+  font-size: 20px;
+  max-width: 60rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
 }
 
 @media (min-width: 64em) {
   .post-content {
     font-size: 20px;
-    max-width: 50rem;
+    max-width: 60rem;
     margin-left: auto;
     margin-right: auto;
   }
