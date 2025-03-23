@@ -154,7 +154,7 @@ a.sidebar-nav-item:focus {
  */
 
 .post-content {
-  font-size: 18px;
+  font-size: 16px;
   max-width: 60rem;
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -167,6 +167,10 @@ a.sidebar-nav-item:focus {
     margin-left: auto;
     margin-right: auto;
   }
+}
+
+.post-content-body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .content {
