@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:       /posts/:title
 
 # Setup
-title:            Words
+title:            Pieces
 tagline:          'None'
 description:      'An effort to commit a state, before it becomes another.'
 baseurl:          /writings
