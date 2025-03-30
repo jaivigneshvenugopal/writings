@@ -6,7 +6,7 @@ categories:
     - "books"
 ---
 
-*Published in 1999 by Haruki Murakami.*
+*Published in 1999, written by Haruki Murakami.*
 
 I think this is going to be my last Murakami for some time. It was a beautiful
 book, and I thoroughly enjoyed the weirdness of the plot, but I can’t be
